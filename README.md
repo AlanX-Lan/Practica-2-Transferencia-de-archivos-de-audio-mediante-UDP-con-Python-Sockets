@@ -1,4 +1,4 @@
-# Practica 2. Transferencia de archivos de audio mediante UDP con Python Sockets.
+# Transferencia de archivos de audio mediante UDP con Python Sockets.
 ### Elaborado por Trinidad González Alan Isaac.
 #
 ## :computer: Paso 1. Compilar y ejecutar el servidor.py
